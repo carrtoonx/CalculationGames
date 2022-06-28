@@ -21,7 +21,7 @@ ex. Windows 10
 ### Authors
 #### Contributors names and contact info
 ex. Matthew Carr
-ex. [@DomPizzie](https://pages.github.com/)
+ex. [@carrtoon](https://pages.github.com/)
 
 
 ## Version History
